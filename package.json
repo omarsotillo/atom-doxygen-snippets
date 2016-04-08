@@ -1,0 +1,19 @@
+{
+  "name": "doxygen-snippets",
+  "main": "./lib/doxygen-snippets",
+  "version": "0.0.0",
+  "description": "Autocomplete snippets for Doxygen comments tool.",
+  "keywords": [
+    "doxygen",
+    "doxygen-complete",
+    "snippets",
+    "doxygen-snippets"
+  ],
+  "repository": "https://github.com/atom/doxygen-snippets",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}

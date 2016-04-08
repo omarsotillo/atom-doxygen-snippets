@@ -1,0 +1,32 @@
+'.source.c, .source.cpp':
+  'doxygen-file':
+    'prefix': 'dfile'
+    'body': """
+      /*!
+         \\\\file ${1:"Filename"}
+         \\\\brief ${2:"Description"}
+         \\\\author ${3:"Your name"}
+         \\\\date ${4:"DD"}/${5:"Month"}/${6:"Year"}
+      */
+    """
+  'doxygen-function':
+    'prefix': 'dfunc'
+    'body': """
+      /*!
+         \\\\brief ${1:"Description"}
+         \\\\param ${2:"Param description"}
+         \\\\pre ${3:"Pre-conditions"}
+         \\\\post ${4:"Post-conditions"}
+         \\\\return ${5:"Return of the function"}
+      */
+    """
+  'doxygen-parameter':
+    'prefix': 'dparam'
+    'body': """
+        /*!< ${1:"Param"} */
+    """
+  'doxygen-macro':
+    'prefix': 'dmacro'
+    'body': """
+        /**Macro for place.*/
+    """
