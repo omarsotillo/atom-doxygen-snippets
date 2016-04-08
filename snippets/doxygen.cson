@@ -28,5 +28,5 @@
   'doxygen-macro':
     'prefix': 'dmacro'
     'body': """
-        /**Macro for place.*/
+        /** ${1:"Macro"}*/
     """
