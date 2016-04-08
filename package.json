@@ -1,7 +1,7 @@
 {
   "name": "doxygen-snippets",
   "main": "./lib/doxygen-snippets",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Autocomplete snippets for Doxygen comments tool.",
   "keywords": [
     "doxygen",
