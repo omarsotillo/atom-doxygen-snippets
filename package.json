@@ -9,7 +9,7 @@
     "snippets",
     "doxygen-snippets"
   ],
-  "repository": "https://github.com/atom/doxygen-snippets",
+  "repository": "https://github.com/omarsotillo/atom-doxygen-snippets",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
