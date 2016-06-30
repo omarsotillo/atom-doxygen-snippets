@@ -1,4 +1,9 @@
-# atom-doxygen-snippets
+atom-doxygen-snippets
+=====================
+
+[![apm](https://img.shields.io/apm/dm/doxygen-snippets.svg?maxAge=2592000?style=flat-square)](https://atom.io/packages/doxygen-snippets)
+[![version](https://img.shields.io/apm/v/doxygen-snippets.svg?maxAge=2592000?style=flat-square)](https://atom.io/packages/doxygen-snippets)
+[![Dependencies!](https://img.shields.io/david/steelbrain/Linter.svg?style=flat-square)](https://david-dm.org/steelbrain/linter)
 ## Description
 Snippets for doxygen in the Atom Editor. :zap:
 
