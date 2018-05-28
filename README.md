@@ -3,7 +3,7 @@
 # atom-doxygen-snippets
 
 
-[![apm](https://img.shields.io/apm/dm/doxygen-snippets.svg?maxAge=2592000?style=flat-square)](https://atom.io/packages/doxygen-snippets) [![version](https://img.shields.io/apm/v/doxygen-snippets.svg?maxAge=2592000?style=flat-square)](https://atom.io/packages/doxygen-snippets)
+[![apm](https://img.shields.io/apm/dm/doxygen-snippets.svg?maxAge=2592000?style=flat-square)](https://atom.io/packages/doxygen-snippets) [![version](https://img.shields.io/apm/v/doxygen-snippets.svg?maxAge=2592000?style=flat-square)](https://atom.io/packages/doxygen-snippets) [![Greenkeeper badge](https://badges.greenkeeper.io/omarsotillo/atom-doxygen-snippets.svg)](https://greenkeeper.io/)
 ## :sos: Looking for a maintainer!!
 
 ## Description
